@@ -15,7 +15,7 @@
 
 <h2>📌 Prerequisites</h2>
 
-<table>
+<table align="center">
   <tr>
     <th>Requirement</th>
     <th>Description</th>
@@ -103,19 +103,20 @@ Current=custom-theme</pre>
 <hr>
 
 <h2>🎨 Screenshots & Previews</h2>
-<p><i>(![2025-03-23-145032_hyprshot](https://github.com/user-attachments/assets/490e9a9a-5919-41c6-bd02-03f75cad0a1e)
-)
-ree to add screenshots of your setup here!)</i></p>
-
+<img src="assets/2025-03-23-145032_hyprshot.png" alt="Alt text" width="1000" height="500">
+<hr>
+<img src="assets/2025-03-23-145641_hyprshot.png" alt="Alt text" width="1000" height="500">
+<hr>
+<img src="assets/2025-03-23-192547_hyprshot.png" alt="Alt text" width="1000" height="500">
 <hr>
 
 <h2>🤝 Contributing</h2>
-<p>If you have any suggestions or improvements, feel free to open a <b><a href="https://github.com/yourusername/hyprdots/pulls">pull request</a></b> or submit an <b><a href="https://github.com/yourusername/hyprdots/issues">issue</a></b> on GitHub!</p>
+<p>If you have any suggestions or improvements, feel free to open a <b><a href="https://github.com/levrone24/Soulbound-Bloom/pulls">pull request</a></b> or submit an <b><a href="https://github.com/levrone24/Souldbound-Bloom/issues">issue</a></b> on GitHub!</p>
 
 <hr>
 
 <h2>🎉 Conclusion</h2>
 <p>Your Hyprland dotfiles should now be installed and configured! Enjoy your personalized desktop environment. 🚀</p>
 
-<p align="center"><b>⭐ Don't forget to <a href="https://github.com/yourusername/hyprdots/stargazers">star the repo</a> if you like it! ⭐</b></p>
+<p align="center"><b>⭐ Don't forget to <a href="https://github.com/levrone24/Soulbound-Bloom/stargazers">star the repo</a> if you like it! ⭐</b></p>
 5
