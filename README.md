@@ -103,11 +103,13 @@ Current=custom-theme</pre>
 <hr>
 
 <h2>🎨 Screenshots & Previews</h2>
-<img src="assets/2025-03-23-145032_hyprshot.png" alt="Alt text" width="1000" height="500">
+<img src="assets/Untitled design.gif" alt="Alt text" width="1000" height="500">
 <hr>
-<img src="assets/2025-03-23-145641_hyprshot.png" alt="Alt text" width="1000" height="500">
+<img src="assets/2025-03-24-211415_hyprshot.png" alt="Alt text" width="1000" height="500">
 <hr>
-<img src="assets/2025-03-23-192547_hyprshot.png" alt="Alt text" width="1000" height="500">
+<img src="assets/2025-03-24-211926_hyprshot.png" alt="Alt text" width="1000" height="500">
+<hr>
+<img src="assets/2025-03-24-213707_hyprshot.png" alt="Alt text" width="1000" height="500">
 <hr>
 
 <h2>🤝 Contributing</h2>
