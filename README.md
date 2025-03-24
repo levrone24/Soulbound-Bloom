@@ -48,7 +48,7 @@ git clone https://github.com/levrone24/Soulbound-Bloom.git </code></pre>
 </pre>
 
 <h3>3️⃣ Install the necessary tools like:</h3>
-<pre>yay -S wlogout
+<pre>yay -S wlogout, yay -S hellwal
 sudo pacman -S rofi waybar swaylock swww neofetch</pre>
 
 <h3>4️⃣ Move The Configuration Files</h3>
