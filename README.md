@@ -67,6 +67,7 @@ chmod +x *.sh
 systemctl --user enable swww.service
 systemctl --user start swww.service
 systemctl --user status swww.service
+systemctl --user enable --now polkit-agent.service
 </code></pre> <p>If you face issues, ensure that systemd for the user is active: Sometimes, the user instance of systemd might not be started. You can start it by logging out and logging back in or running the following command:</p> 
 <pre>systemctl --user start
 </pre>
