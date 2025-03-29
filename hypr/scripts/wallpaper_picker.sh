@@ -15,6 +15,16 @@ else
     echo "No wallpaper selected."
 fi
 
+    # Apply Hellwal colors
+    hellwal -i "$SELECTED_WALLPAPER"
+
+    # Reload terminal colors
+    source ~/.cache/hellwal/variables.sh
+    sh ~/.cache/hellwal/terminal.sh
+else
+    echo "No wallpaper selected."
+fi
+
 #simple fzf wallpaper picker
 
 #!/bin/bash
