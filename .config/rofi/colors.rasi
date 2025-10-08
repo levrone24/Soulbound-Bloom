@@ -1,0 +1,15 @@
+* {
+  bg:            #1e1e2e;
+  bg-alt:        #313244;
+  fg:            #cdd6f4;
+  fg-alt:        #a6adc8;
+  accent:        #89b4fa;
+  urgent:        #f38ba8;
+  active:        #94e2d5;
+  selected:      #585b70;
+  border:        #6c7086;
+  transparent:   rgba(0,0,0,0);
+  foreground: #cdd6f4;
+  background: #1e1e2e;
+  border:     #6c7086;
+}

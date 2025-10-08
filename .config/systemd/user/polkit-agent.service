@@ -1,0 +1,14 @@
+[Unit]
+Description=Polkit Authentication Agent
+After=hyprland.service  
+Wants=hyprland.service  
+
+
+[Service]
+ExecStart=/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+Restart=always
+Restart=always
+RestartSec=1  
+
+[Install]
+WantedBy=default.target
